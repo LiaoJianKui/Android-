@@ -31,11 +31,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
         dogList=new ArrayList<Dog>();
-        dogList.add(new Dog("dog1fhdhhthntrntrn222222222222", R.drawable.dog1));
+        dogList.add(new Dog("dog1eeeeeeeeeeeeeeeeeeeeeeeeeed", R.drawable.dog1));
         dogList.add(new Dog("dog2", R.drawable.dog2));
-        dogList.add(new Dog("dog3", R.drawable.dog3));
-        dogList.add(new Dog("dog4dbdfbdfbdf2222", R.drawable.dog4));
-        dogList.add(new Dog("dog5", R.drawable.dog5));
+        dogList.add(new Dog("dog3ddddddddddddddd", R.drawable.dog3));
+        dogList.add(new Dog("dog4", R.drawable.dog4));
+        dogList.add(new Dog("dogfsdggrgrrrrrrrrrrrrrrrrrre", R.drawable.dog5));
         dogList.add(new Dog("dog6", R.drawable.dog6));
         dogList.add(new Dog("dog7", R.drawable.dog7));
         dogList.add(new Dog("dog8", R.drawable.dog8));
